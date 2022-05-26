@@ -4,7 +4,8 @@
   "description": "Backend api",
   "main": "index.js",
   "scripts": {
-    "nodemon": "nodemon node_modules/index"
+    "nodemon": "nodemon node_modules/index",
+    "start":"node index.js"
   },
   "keywords": [
     "jwt",
